@@ -36,9 +36,11 @@ In another terminal, change the directory to go into the "Course4FinalProject" f
 
 Run your controller, execute the following command while CARLA is open:
 
-Ubuntu  (use alternative python commands if the command below does not work, as described in the CARLA install guide):  `python3 module_7.py`
+Ubuntu  (use alternative python commands if the command below does not work, as described in the CARLA install guide):  
+`python3 module_7.py`
 
-Windows (use alternative python commands if the command below does not work, as described in the CARLA install guide):  `python module_7.py`
+Windows (use alternative python commands if the command below does not work, as described in the CARLA install guide):  
+`python module_7.py`
 
 The simulator will begin to run if the module_7.py client connects to the server properly. It will open two new feedback windows (unless live_plotting is disabled - see the changing the live plotter refresh rate section below for more details), one of which shows the top-down trajectory and the other which shows the controls feedback. 
 
